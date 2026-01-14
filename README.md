@@ -27,8 +27,7 @@ I'm a fan of **iterative design**: test, refine, learn, repeat. Each project is 
 
 ## 🌱 Currently Exploring
 
-Voice-driven interfaces, productivity tools, Web3 UX, and how design can drive impact in **agritech** and **edtech**.
-
+Voice-driven interfaces, productivity tools, Web3 UX.
 ---
 
 ## 🤝 Let's Connect
