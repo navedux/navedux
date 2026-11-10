@@ -1,42 +1,29 @@
-# Hey there! I'm Naved Alam 👋
+# Naved Alam
 
-**Product Designer** crafting intuitive, user-centric designs for crypto, Web3, and beyond.
+Design engineer at [NodeOps](https://nodeops.network), based in Bengaluru. I design things and then build them myself, so nothing gets lost in a handoff.
 
-I believe great design solves real problems. I focus on understanding the "why" behind every project—keeping users at the center while building trust and clarity. Whether it's simplifying complex flows, crafting high-conversion pages, or making blockchain tech approachable, I'm in.
+Most of my work lives in a few places right now.
 
----
+## Illos
 
-## 🎨 Design Philosophy
+[illos.dev](https://illos.dev) is my own thing: animated SVG illustrations for product sites, plus a skill that lets Claude Code, Cursor and Codex pick them, place them, and draw new ones in your style.
 
-I'm a fan of **iterative design**: test, refine, learn, repeat. Each project is a learning experience. I collaborate closely with teams to translate ideas into thoughtful, user-first solutions.
+- [illos-free-illustrations](https://github.com/navedux/illos-free-illustrations) has 65 free illustrations in four themes (Shader, HUD, Isometric, Interface), light and dark
+- [illos-skills](https://github.com/navedux/illos-skills) is the free skill and MCP server
+- Six free landing page templates built on them, in plain HTML, CSS and JS: [Orrery](https://illos-orrery-template.vercel.app), [Tollgate](https://illos-tollgate-template.vercel.app), [Hourline](https://illos-hourline-template.vercel.app), [Kilnworks](https://illos-kilnworks-template.vercel.app), [Sounder](https://illos-sounder-template.vercel.app), [Wardline](https://illos-wardline-template.vercel.app)
 
-**What drives me:**
-- Problem-solving over perfection
-- User feedback over assumptions  
-- Clarity over complexity
+## Other things I've shipped
 
----
+- [CreateOS](https://createos.nodeops.network) and the NodeOps console, as the designer, from first sketch to production
+- [Bagcheck](https://getbagcheck.vercel.app), my Nansen buildathon entry. Paste a wallet and it tells you who's actually buying your bag
+- The Superteam Talent site, design and build
 
-## 💻 Tech Stack
+## What I use
 
-- **Design & Prototyping**: Figma, Rive, Sketch, Protopie, Jitter
-- **Web**: HTML, CSS, JavaScript
-- **Showcase**: [Dribbble](https://dribbble.com/Navedux) • [Behance](https://www.behance.net/navedux)
+Next.js, Tailwind and React Three Fiber when it has to run in a browser. Remotion when it has to move on video.
 
----
+I care a lot about motion. If an animation feels slightly off, I'll keep at it until it doesn't.
 
-## 🌱 Currently Exploring
+## Find me
 
-Voice-driven interfaces, productivity tools, Web3 UX.
----
-
-## 🤝 Let's Connect
-
-Chat about design, crypto, Web3, or just share ideas.
-
-- [LinkedIn](https://linkedin.com/in/navedux)
-- [Twitter](https://twitter.com/navedux)
-- [Dribbble](https://dribbble.com/Navedux)
-- [Portfolio](https://naved.xyz)
-
-Thanks for stopping by! 👋
+[naved.xyz](https://naved.xyz) · [X](https://x.com/Navedux) · [LinkedIn](https://linkedin.com/in/navedux) · [Dribbble](https://dribbble.com/Navedux) · [Peerlist](https://peerlist.io/naved)
